@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**liazinea/liazinea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div><img src="stars.gif" width="40px" weight="40px" align="left"></div>
+  <div>
+    <p align="center">Olá, eu sou a Lia! Sejam bem vindos ao meu espaço!</p>
+  </div>
+  <div><img src="stars.gif" width="40px" weight="40px" align="right"></div>
 
-Here are some ideas to get you started:
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+let lia = {
+  cursa: 'Análise e Desenvolvimento de Sistemas',
+  linguagens: ['HTML', 'CSS', 'SQL'],
+  aprendendo: ['React', 'JavaScript', 'Laravel'],
+  pronomes: 'Ela | dela'
+}
+```
