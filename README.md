@@ -1,17 +1,8 @@
+# Olá, eu sou a Lia! Sejam bem vindos ao meu espaço✨
+- Programo em HTML, CSS, PHP e tenho conhecimento em MySQL
+- Estou estudando JavaScript e React, quero aprender a mexer mais com back-end!
+- Você pode me contatar em liazinea23@gmail.com
 
-  <div><img src="stars.gif" width="40px" weight="40px" align="left"></div>
-  <div>
-    <p align="center">Olá, eu sou a Lia! Sejam bem vindos ao meu espaço!</p>
-  </div>
-  <div><img src="stars.gif" width="40px" weight="40px" align="right"></div>
+<div align="center"><img src="gato_gif.webp" width="300px" align="left"> <img src="coraline_gif.webp" width="300px" align="left"></div>
 
   
-
-```javascript
-let lia = {
-  cursa: 'Análise e Desenvolvimento de Sistemas',
-  linguagens: ['HTML', 'CSS', 'SQL'],
-  aprendendo: ['React', 'JavaScript', 'Laravel'],
-  pronomes: 'Ela | dela'
-}
-```
